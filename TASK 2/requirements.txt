@@ -1,0 +1,4 @@
+Flask
+pytesseract
+pillow
+opencv-python
